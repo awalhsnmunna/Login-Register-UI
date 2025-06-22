@@ -60,6 +60,8 @@ class LoginPage extends StatelessWidget {
               ),
             ),
             SizedBox(height: 30),
+            SizedBox(height: 20),
+            SizedBox(height: 20),
             Text(
               "Forgot your password?",
               style: TextStyle(fontSize: 14, color: Color(0xff1F41BB)),
